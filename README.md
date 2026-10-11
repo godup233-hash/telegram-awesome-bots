@@ -139,6 +139,8 @@ Telegram 官方没有中文搜索引擎，也没有"机器人商店"。新人想
 | 10 | 删除进出群消息 | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot) | — | ⭐⭐ | 极简 | 全免费 | **7.6** |
 | 11 | UNameBot 用户名提醒 | [@UNameBot](https://t.me/UNameBot) | ⭐⭐ | ⭐⭐ | 极简 | 全免费 | **7.3** |
 | 12 | SangMata 改名监控 | [@SangMata_BOT](https://t.me/SangMata_BOT) | ⭐⭐ | ⭐⭐⭐ | 简单 | 全免费 | **7.2** |
+| 13 | JoinApprove 加群审核 | [@JoinApproveProBot](https://t.me/JoinApproveProBot) | — | ⭐⭐⭐ | 极简 | 全免费 | **7.0** |
+| 14 | GroupPulse 群活跃统计 | [@GroupPulseBot](https://t.me/GroupPulseBot) | — | ⭐⭐⭐ | 极简 | 全免费 | **6.9** |
 
 ### 🥇 Miss Rose — [@MissRose_bot](https://t.me/MissRose_bot)
 
@@ -527,6 +529,9 @@ RSS 订阅器：订阅新闻站、博客、YouTube 频道、Reddit 版块，更�
 |------|--------|------|---------|---------|------|
 | 🥇 | Gamee | [@gamee](https://t.me/gamee) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **9.0** |
 | 🥈 | GameBot（官方） | [@GameBot](https://t.me/GameBot) | ⭐⭐⭐ | ⭐⭐⭐⭐ | **8.5** |
+| 4 | 你是哪种人测试 | [@WhichOneAreYouBot](https://t.me/WhichOneAreYouBot) | ⭐⭐⭐ | ⭐⭐⭐⭐ | **7.4** |
+| 5 | 真心话大冒险 | [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot) | ⭐⭐⭐ | ⭐⭐⭐⭐ | **7.2** |
+| 6 | 你画我猜派对 | [@CharadesPartyBot](https://t.me/CharadesPartyBot) | ⭐⭐⭐ | ⭐⭐⭐⭐ | **7.0** |
 | 🥉 | TriviaBot | [@TriviaBot](https://t.me/TriviaBot) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **8.2** |
 | 4 | PokerBot | [@PokerBot](https://t.me/PokerBot) | ⭐⭐ | ⭐⭐⭐⭐⭐ | **8.0** |
 | 5 | QuotLy（娱乐向） | [@QuotLyBot](https://t.me/QuotLyBot) | — | ⭐⭐⭐⭐ | **8.2** |
